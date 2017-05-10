@@ -1,10 +1,12 @@
-# fbcmdi4j
+
+fbcmdi4j
+
 Evidencia Marcela Abigail Valenzuenla Poisot
 
-a)InstalaciÃ³n
+a)Instalación
 
 b)Uso
 
-c)CrÃ©ditos
+c)Créditos
 
 d)Licencia

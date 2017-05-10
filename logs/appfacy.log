@@ -1,0 +1,9 @@
+2017-05-10 12:30:28.147 [main] ERROR org.appfacy.Utils - Archivo appfacy.properties vacío.
+2017-05-10 12:30:51.691 [main] ERROR org.appfacy.Main - message - Invalid parameter
+code - 100
+subcode - 1349125
+Relevant information for error recovery can be found on the Facebook Developers Document:
+	https://developers.facebook.com/docs/graph-api/using-graph-api/#errors
+
+FacebookException{statusCode=400, errorType='OAuthException', errorMessage='Invalid parameter', errorCode=100, errorSubcode=1349125, version=2.4.9}
+2017-05-10 12:41:13.917 [main] ERROR org.appfacy.Utils - Archivo appfacy.properties vacío.

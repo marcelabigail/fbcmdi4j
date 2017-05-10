@@ -1,0 +1,8 @@
+2017-05-10 12:13:12.366 [main] ERROR org.appfacy.Utils - Archivo appfacy.properties vacío.
+2017-05-10 12:13:30.938 [main] ERROR org.appfacy.Main - message - Error validating access token: Session has expired on Wednesday, 10-May-17 09:00:00 PDT. The current time is Wednesday, 10-May-17 10:13:31 PDT.
+code - 190
+subcode - 463
+Relevant information for error recovery can be found on the Facebook Developers Document:
+	https://developers.facebook.com/docs/graph-api/using-graph-api/#errors
+
+FacebookException{statusCode=400, errorType='OAuthException', errorMessage='Error validating access token: Session has expired on Wednesday, 10-May-17 09:00:00 PDT. The current time is Wednesday, 10-May-17 10:13:31 PDT.', errorCode=190, errorSubcode=463, version=2.4.9}
